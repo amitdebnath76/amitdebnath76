@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
  
 </p>
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/rakibuddin99/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/konikarani/competition/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/debnathamit/dataset/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/debnathamit/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/debnathamit/discussion/light" />
