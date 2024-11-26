@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitdebnath76
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Machine Learning and Deep Learning
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning ...React, NextJs and MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...debnath4455@gmail.com
 
